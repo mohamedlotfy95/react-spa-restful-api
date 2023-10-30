@@ -1,5 +1,9 @@
 # 🚀 Project Overview
 
+
+## System Diagram
+!System Diagram
+
 ## 📝 Description
 This project is a combination of two main parts: a backend RESTful API 🖥️ and a frontend React Single Page Application (SPA) 🌐. 
 
