@@ -2,7 +2,7 @@
 
 
 ## System Diagram
-!System Diagram
+![System Diagram](https://github.com/mohamedlotfy95/react-spa-restful-api/blob/1e9a0fb406afbdcaa007d68f402fc1f510c505d4/System%20Diagram.png)
 
 ## 📝 Description
 This project is a combination of two main parts: a backend RESTful API 🖥️ and a frontend React Single Page Application (SPA) 🌐. 
